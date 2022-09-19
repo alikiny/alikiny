@@ -1,4 +1,4 @@
-<h1>Hi there ✌🏻 May I'm the final piece in your puzzle </h1>
+<h1>Hi there! May I'm the final piece in your puzzle </h1>
 
 ## You reading is highly apprecited :v:
 *I do not love coding, I live it!*
