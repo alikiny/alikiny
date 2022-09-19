@@ -1,5 +1,4 @@
-<h1>You are watching Alia's Profile</h1>
-<img src='https://raw.githubusercontent.com/alikiny/alikiny/main/cover.png' alt='profile cover'/>
+<h1>Hi there ✌🏻 May I'm the final piece in your puzzle </h1>
 
 ## You reading is highly apprecited :v:
 *I do not love coding, I live it!*
